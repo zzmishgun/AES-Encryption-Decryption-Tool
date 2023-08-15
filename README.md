@@ -8,14 +8,11 @@ This is a simple AES encryption/decryption tool implemented in Python using the 
 
 pip install cryptography
 
-markdown
-
 
 2. Run the `encryption_tool.py` script:
 
 python encryption_tool.py
 
-markdown
 
 
 ## Usage
